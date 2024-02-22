@@ -19,6 +19,6 @@ Grade : C | Mark : 16.5
 | mixed binary operator             | 70%        | 7/10      | x       |
 | all mixed                         | 57.1%      | 8/14      | x       |
 | Coding qtyle                      | 100%       | 3/3       | x       |
-| **End score**                     | **100%**   | **69/81** | **NO**  |
+| **End score**                     | **85.2%**  | **69/81** | **NO**  |
 
 Beware of -42 Epitech students !!!
